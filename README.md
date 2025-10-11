@@ -1,2 +1,5 @@
 # PTC
+
+<img width="512" height="512" alt="krj" src="https://github.com/user-attachments/assets/6ce57f7f-f988-4b68-ba06-6bf6ecda27eb" />
+
 RANCANGAN SISTEM TEKNOLOGI CERDAS UNTUK MONITORING DAN PELESTARIAN POHON TERLINDUNGI DI KEBUN RAYA JOMPIE PAREPARE BERBASIS SMART CITY
